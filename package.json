@@ -1,0 +1,30 @@
+{
+  "name": "bs-restaurant",
+  "version": "1.0.0",
+  "description": "An example restaurant website made with bootstrap, harp, less, and node",
+  "main": "index.ejs",
+  "dependencies": {
+    "harp": "^0.20.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rljusticio/bootstrap-restaurant-example.git"
+  },
+  "keywords": [
+    "boostrap",
+    "node",
+    "harp",
+    "less",
+    "restaurant"
+  ],
+  "author": "Justin Walters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rljusticio/bootstrap-restaurant-example/issues"
+  },
+  "homepage": "https://github.com/rljusticio/bootstrap-restaurant-example#readme"
+}
