@@ -10,4 +10,4 @@ This repo contains code for a simple website made with bootstrap, node, harp, an
 npm install
 harp server --port 3000
 ```
-3. Open http://localhost:3000/ in a web browser to view website
+Open http://localhost:3000/ in a web browser to view website
