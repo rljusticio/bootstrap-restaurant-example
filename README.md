@@ -11,3 +11,5 @@ npm install
 harp server --port 3000
 ```
 Open http://localhost:3000/ in a web browser to view website
+
+Follow me [@jdw_dev](https://www.twitter.com/jdw_dev)
